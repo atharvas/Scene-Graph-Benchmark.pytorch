@@ -17,8 +17,6 @@ checkpoint/
 # dataset
 datasets/vg/
 *.png
-*.jpg
-*.jpeg
 
 # Editor temporaries
 *.swn
